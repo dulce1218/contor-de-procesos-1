@@ -1,4 +1,16 @@
-# contor-de-procesos-1
+# contor-de-procesos-
+
+
+#RODRIGUEZ FLORES DULCE SARAI
+
+
+#INGENERIA MECATRONICA
+
+
+#INDICE
+
+
+##1INTRODUCCION
 El Labview es un entorno de programación grafica usado por ingenieros y científicos para desarrollar mediciones sofisticadas, pruebas y sistemas de control. El Labview puede integrar una gran variedad de dispositivos de hardware en este curso utilizaremos el hardware de comunicación serial y el takde dak (data Acquisitión), configurado el hardware en el Max (Measuremet autometion Explorer).
 
 
