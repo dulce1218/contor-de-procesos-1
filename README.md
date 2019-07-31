@@ -1,12 +1,9 @@
-# contor-de-procesos-
-
-
 # *Control de procesos*
 # *Tecnologico de Estudios Superiores de Huixquilucan*
--Hecho por #(**RODRIGUEZ FLORES DULCE SARAI**)
-# *INGENERIA MECATRONICA*
+-Hecho por (**RODRIGUEZ FLORES DULCE SARAI**)
+# *INGIENERIA MECATRONICA*
 
-##INDICE
+## *INDICE*
 
 
 ## *1 INTRODUCCION*
@@ -30,8 +27,10 @@ Aprenda cómo navegar LabVIEW y usar el diagrama de bloques, panel frontal y pal
 ### *1.1objetivos específicos* 
 Aprenda cómo usar los recursos de ayuda en LabVIEW para comprender mejor los conceptos y técnicas de programación.
 
+### **Pasos para ocupar LAbVIEW**
 
-Ver cómo ejecutar código de manera condicional en LabVIEW usando Ciclos For, Ciclos While y Estructuras de Casos.
+
+
 
 
 
