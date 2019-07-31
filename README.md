@@ -29,7 +29,7 @@ Aprenda cómo usar los recursos de ayuda en LabVIEW para comprender mejor los co
 
 # **Pasos para ocupar LAbVIEW**
 
-
+![Labview imag]
 
 
 
