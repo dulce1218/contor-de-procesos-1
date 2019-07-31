@@ -54,10 +54,15 @@ Resta de dos dígitos
 1.-Para la primera practica se instaló el programa labview y así poder realizar las practicas.
 2.-el ejercicio a realizar fue una resta de dos números 
 3.-se dio clic derecho para que aparecieran la barra de herramientas se selección la opción de numeric y ahí poder encontrar un numeric control poder colocar 2 ya que esos dos son el valor de los números para poder realizar las restas. Y el ultimo para poder visualizar el resultado. Adicionándole un White loop y un stop junto con un indicador.
+
+![lab] (PRACTICA 7.png)
+
 Dos temporizadores 
 1.-
 2.-
 3.-
+
+![lab] (PRACTICA 7.png)
 
 Indice de masa corporal
 1.-
@@ -65,6 +70,9 @@ Indice de masa corporal
 3.-
 4.-
 5.-
+
+![lab] (PRACTICA 7.png)
+
 Led encendido
 1.-
 2.-
