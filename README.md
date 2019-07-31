@@ -55,7 +55,7 @@ Resta de dos dígitos
 2.-el ejercicio a realizar fue una resta de dos números 
 3.-se dio clic derecho para que aparecieran la barra de herramientas se selección la opción de numeric y ahí poder encontrar un numeric control poder colocar 2 ya que esos dos son el valor de los números para poder realizar las restas. Y el ultimo para poder visualizar el resultado. Adicionándole un White loop y un stop junto con un indicador.
 
-![lab] (PRACTICA 7.png)
+![lab] ( https://github.com/dulce1218/contor-de-procesos-1/blob/master/practica1.png)
 
 Dos temporizadores 
 1.-
