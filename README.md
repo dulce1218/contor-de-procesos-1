@@ -32,6 +32,8 @@ Primero ahi que tener el programa  para poder realizar los programas
 
 ![Labview imag](https://github.com/dulce1218/contor-de-procesos-1/blob/master/CONTROL%20DE%20PROCESOS/01.png?raw=true)
 
+![labview imag](https://github.com/dulce1218/contor-de-procesos-1/blob/master/CONTROL%20DE%20PROCESOS/02.png?raw=true)
+
 ![Labview imag](https://github.com/dulce1218/contor-de-procesos-1/blob/master/CONTROL%20DE%20PROCESOS/pas1.png?raw=true)
 
 
