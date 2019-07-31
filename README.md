@@ -27,7 +27,8 @@ Aprenda cómo navegar LabVIEW y usar el diagrama de bloques, panel frontal y pal
 ### *1.1objetivos específicos* 
 Aprenda cómo usar los recursos de ayuda en LabVIEW para comprender mejor los conceptos y técnicas de programación.
 
-### **Pasos para ocupar LAbVIEW**
+# **Pasos para ocupar LAbVIEW**
+
 
 
 
