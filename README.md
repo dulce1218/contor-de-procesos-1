@@ -65,7 +65,7 @@ Para la siguiente practica que es la resta de dos digitos se dio aconocer todas 
 4.-para poder ingresar una estatura y peso el progama se verificaba si estaba en el equivalente elcual se dividio para ver si estaba en  normal sobre peso etc.
 
 
-![labview imag] ()
+![labview imag](https://github.com/dulce1218/contor-de-procesos-1/blob/master/CONTROL%20DE%20PROCESOS/practica2.png?raw=true)
 
 ## *Led encendido*
 1.-Se abre el programa se crea uno nuevo para poder iniciar
