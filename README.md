@@ -41,21 +41,21 @@ al haber haber seleccionado la parte de file de inmediato al selecccionar el com
 ![Labview imag](https://github.com/dulce1218/contor-de-procesos-1/blob/master/CONTROL%20DE%20PROCESOS/pas1.png?raw=true)
 
 # *Desarrollo*
-##*Resta de dos dígitos*
+## *Resta de dos dígitos*
 Para la siguiente practica que es la resta de dos digitos se dio aconocer todas las librerias para poder realizar la practica. 
 
 ![Labview imag](https://github.com/dulce1218/contor-de-procesos-1/blob/master/CONTROL%20DE%20PROCESOS/03.png?raw=true)
 2.-el ejercicio a realizar fue una resta de dos números 
 3.-se dio clic derecho para que aparecieran la barra de herramientas se selección la opción de numeric y ahí poder encontrar un numeric control poder colocar 2 ya que esos dos son el valor de los números para poder realizar las restas. Y el ultimo para poder visualizar el resultado. Adicionándole un White loop y un stop junto con un indicador.
 
- ![labview imag]()
+ ![labview imag](https://github.com/dulce1218/contor-de-procesos-1/blob/master/CONTROL%20DE%20PROCESOS/practica1.png?raw=true)
 
-Dos temporizadores 
-1.-
-2.-
-3.-
+### *Dos temporizadores* 
+1.-para poder realizar la segunda practica anterior mente se colocaron uos temporizadores y asi poder llevar a cabo la segunda practica
+2.-se selecciono la obcion de numeric y ahi mismo se encontraban otros se seleccinaba Knob y asi ppoder seleccionar los temporizadores
+3.-ahi mismo se selecciono un indicador y asi  poder llevar a cabo el comienzo
 
-![lab] (PRACTICA 7.png)
+![labview imag]()
 
 Indice de masa corporal
 1.-
