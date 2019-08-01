@@ -82,29 +82,134 @@ Para la siguiente practica que es la resta de dos digitos se dio aconocer todas 
 
 
 Termómetro con led 
-1.-
-2.-
-3.-
-4.-
-5.-
-6.-
-7.-
+1.-primero se inicio un nuevo programa de labview 
+2.-desues se coloco en el de tools para volver a cargar el de arduino y asi poderlo inplementar 
+3.-con el termometro era el que dabaseñal ademas de un led
+4.-pudimos ver el ciclo whitt y a los circuitos s les agregaba el boton de paro
+5.-conforme alcircuito se visualizo que habia que jugar entre los valores de 0 y 1 para que pudiera tener un cierto tiempo
+6.-se le agrego un limite para queno pudiera a ver algun error
+
 
 ![labview imag](https://github.com/dulce1218/contor-de-procesos-1/blob/master/CONTROL%20DE%20PROCESOS/practica4.png?raw=true)
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![LABVIEW imag](https://github.com/dulce1218/contor-de-procesos-1/blob/master/CONTROL%20DE%20PROCESOS/practica6.png?raw=true)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ![labview imag](https://github.com/dulce1218/contor-de-procesos-1/blob/master/CONTROL%20DE%20PROCESOS/PRACTICA7.png?raw=true)
 
-![](https://github.com/dulce1218/contor-de-procesos-1/blob/master/CONTROL%20DE%20PROCESOS/practica%209.png?raw=true)
-
-![]()
 
 
 
+![labview imag](https://github.com/dulce1218/contor-de-procesos-1/blob/master/CONTROL%20DE%20PROCESOS/practica%209.png?raw=true)
 
 
 
 
-![lab] (PRACTICA 7.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![labview imag](https://github.com/dulce1218/contor-de-procesos-1/blob/master/CONTROL%20DE%20PROCESOS/PRACTICA%209%20MOTOR.png?raw=true)
+
+
+
+
+
+
+
+
