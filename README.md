@@ -95,8 +95,11 @@ Termómetro con led
 
 ![LABVIEW imag](https://github.com/dulce1218/contor-de-procesos-1/blob/master/CONTROL%20DE%20PROCESOS/practica6.png?raw=true)
 
-![labview imag]()
+![labview imag](https://github.com/dulce1218/contor-de-procesos-1/blob/master/CONTROL%20DE%20PROCESOS/PRACTICA7.png?raw=true)
 
+![]()
+
+![]()
 
 
 
