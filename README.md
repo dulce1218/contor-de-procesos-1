@@ -32,18 +32,17 @@ Primero ahi que tener el programa  para poder realizar los programas
 
 ![Labview imag](https://github.com/dulce1218/contor-de-procesos-1/blob/master/CONTROL%20DE%20PROCESOS/01.png?raw=true)
 
+Despues de haber realizado la apertura  hay que seleccionar en file (que es un comando para abrir un nuevo documento)
+
 ![labview imag](https://github.com/dulce1218/contor-de-procesos-1/blob/master/CONTROL%20DE%20PROCESOS/02.png?raw=true)
+
+al haber haber seleccionado la parte de file de inmediato al selecccionar el comando de nuevo documento se le aprieta (Ctrl+t) para que aparescan las dos venanas del programa labview.
 
 ![Labview imag](https://github.com/dulce1218/contor-de-procesos-1/blob/master/CONTROL%20DE%20PROCESOS/pas1.png?raw=true)
 
-
-
-
-
-
-Desarrollo
-Resta de dos dígitos
-1.-Para la primera practica se instaló el programa labview y así poder realizar las practicas.
+# *Desarrollo*
+##*Resta de dos dígitos*
+Para la siguiente practica que es la resta de dos digitos se dio aconocer todas las librerias para poder realizar la practica. 
 2.-el ejercicio a realizar fue una resta de dos números 
 3.-se dio clic derecho para que aparecieran la barra de herramientas se selección la opción de numeric y ahí poder encontrar un numeric control poder colocar 2 ya que esos dos son el valor de los números para poder realizar las restas. Y el ultimo para poder visualizar el resultado. Adicionándole un White loop y un stop junto con un indicador.
 
