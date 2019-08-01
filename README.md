@@ -55,32 +55,29 @@ Para la siguiente practica que es la resta de dos digitos se dio aconocer todas 
 2.-se selecciono la obcion de numeric y ahi mismo se encontraban otros se seleccinaba Knob y asi ppoder seleccionar los temporizadores
 3.-ahi mismo se selecciono un indicador y asi  poder llevar a cabo el comienzo
 
-![labview imag]()
+![labview imag](https://github.com/dulce1218/contor-de-procesos-1/blob/master/CONTROL%20DE%20PROCESOS/1.1.png?raw=true)
 
-Indice de masa corporal
-1.-
-2.-
-3.-
-4.-
-5.-
+## *Indice de masa corporal*
 
-![lab] (PRACTICA 7.png)
+1.-Se abre el programa se crea uno nuevo para poder iniciar
+2.-
+3.-para poder medir el indice de masa corporal se necita la opcion de la altura,peso
+4.-para poder ingresar una estatura y peso el progama se verificaba si estaba en el equivalente elcual se dividio para ver si estaba en  normal sobre peso etc.
 
-Led encendido
-1.-
-2.-
-3.-
-4.-
-5.-
-6.-
-7.-
-8.-
-Led con control coda segundo enciende 
-1-
-2.-
-3.-
-4.-
-5.-
+
+![labview imag] ()
+
+## *Led encendido*
+1.-Se abre el programa se crea uno nuevo para poder iniciar
+2.-se va al comado de tools,despues de ahi se va a  la opcion de makerhub y ahi mismo aparece la opcion de linx al insertartar o darñe click aparecia el programa para arduino 
+3.-al ingresar a la pagina de arduinoaparece varias opciones una de las cuales le meneabas era la opciondos que era donde escogias el tipo de arduino a ocupar yle dabas next que era siguiente.
+4.-A la siguiente te aparecia en que puerto estaba conecctado el arduino para quepudiera ingresar el arduino ya si no ubiera error. 
+5.-aparecia otra barra de tareas que decia si estabas en el puerto correcto yle dabasen next.
+6.- el siguiente paso cargaba 
+7.-conforme al programa cargado ingresabas a una ventanilla que aparecia como ejemplo para poder encender el led.
+8.-ya que estaba tu arduino conectadopodrias agregar el puerto y asi poder visualizar el encendido la parte del led la pata positiva fue al 13 y otra a GND(que era tierra) y asi no sepuudiera fundir.
+
+![labview]()
 
 
 
