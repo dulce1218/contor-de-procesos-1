@@ -77,7 +77,7 @@ Para la siguiente practica que es la resta de dos digitos se dio aconocer todas 
 7.-conforme al programa cargado ingresabas a una ventanilla que aparecia como ejemplo para poder encender el led.
 8.-ya que estaba tu arduino conectadopodrias agregar el puerto y asi poder visualizar el encendido la parte del led la pata positiva fue al 13 y otra a GND(que era tierra) y asi no sepuudiera fundir.
 
-![labview](https://github.com/dulce1218/contor-de-procesos-1/blob/master/CONTROL%20DE%20PROCESOS/pracrica3.png?raw=true)
+![labview imag](https://github.com/dulce1218/contor-de-procesos-1/blob/master/CONTROL%20DE%20PROCESOS/pracrica3.png?raw=true)
 
 
 
@@ -89,7 +89,7 @@ Termómetro con led
 5.-
 6.-
 7.-
-
+![labview imag](https://github.com/dulce1218/contor-de-procesos-1/blob/master/CONTROL%20DE%20PROCESOS/practica4.png?raw=true)
 
 
 
