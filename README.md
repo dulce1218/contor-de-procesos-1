@@ -4,11 +4,11 @@
 # *INGIENERIA MECATRONICA*
 
 ## *INDICE*
- +[1 Introducción a LabVIEW](#introducción-a-labview).
-+[Primeros pasos en LabVIEW](#PASOS A OCUPAR EN EL PROGRAMA).
-+ [Primer programa](#RESTA DE DOS DIGITOS).
-+ [Segundo programa](#INDICE DE MASA CORPORAL).
-+[Tercer programa](#ENCENDIDO DEL LED).
+- [Introducción a LabVIEW](#introducción-a-labview).
+- [PASOS A OCUPAR EN EL PROGRAMA]
+- [RESTA DE DOS DIGITOS]
+- [INDICE DE MASA CORPORAL]
+- [ENCENDIDO DEL LED])
 
 ## *1 INTRODUCCION*
 El Labview es un entorno de programación grafica usado por ingenieros y científicos para desarrollar mediciones sofisticadas, pruebas y sistemas de control. El Labview puede integrar una gran variedad de dispositivos de hardware en este curso utilizaremos el hardware de comunicación serial y el takde dak (data Acquisitión), configurado el hardware en el Max (Measuremet autometion Explorer).
