@@ -4,7 +4,7 @@
 # *INGIENERIA MECATRONICA*
 
 ## *INDICE*
-- [Introducción a LabVIEW](#introducción-a-labview).
+- [Introducción a LabVIEW]
 - [PASOS A OCUPAR EN EL PROGRAMA]
 - [RESTA DE DOS DIGITOS]
 - [INDICE DE MASA CORPORAL]
