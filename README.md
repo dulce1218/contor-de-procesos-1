@@ -6,9 +6,19 @@
 ## *INDICE*
 - [Introducción a LabVIEW]
 - [PASOS A OCUPAR EN EL PROGRAMA]
-- [RESTA DE DOS DIGITOS]
-- [INDICE DE MASA CORPORAL]
-- [ENCENDIDO DEL LED])
+- [PRACTICA # 1 RESTA DE DOS DIGITOS]
+- [PRACTICA # 2 INDICE DE MASA CORPORAL]
+- [PRACTICA # 3 ENCENDIDO DEL LED])
+-[PRACTICA # 4]
+-[PRACTICA # 5  ]
+-[PRACTICA # 6]
+-[PRACTICA # 7]
+-[PRACTICA # 8]
+-[PRACTICA # 9 PUENTE H CON MOTORES]
+-[PRACTICA # 10 PRACTICA DE 500 SEGUNDOS EL MOTOR SE ACTIVA]
+-[PRACTICA # 11 DISPLAY]
+-[PRACTICA # 12 CONTEO CON  DOS DISPLAYS]
+
 
 ## *1 INTRODUCCION*
 El Labview es un entorno de programación grafica usado por ingenieros y científicos para desarrollar mediciones sofisticadas, pruebas y sistemas de control. El Labview puede integrar una gran variedad de dispositivos de hardware en este curso utilizaremos el hardware de comunicación serial y el takde dak (data Acquisitión), configurado el hardware en el Max (Measuremet autometion Explorer).
@@ -50,6 +60,7 @@ Para la siguiente practica que es la resta de dos digitos se dio aconocer todas 
 
 ![Labview imag](https://github.com/dulce1218/contor-de-procesos-1/blob/master/CONTROL%20DE%20PROCESOS/03.png?raw=true)
 2.-el ejercicio a realizar fue una resta de dos números 
+
 3.-se dio clic derecho para que aparecieran la barra de herramientas se selección la opción de numeric y ahí poder encontrar un numeric control poder colocar 2 ya que esos dos son el valor de los números para poder realizar las restas. Y el ultimo para poder visualizar el resultado. Adicionándole un White loop y un stop junto con un indicador.
 
  ![labview imag](https://github.com/dulce1218/contor-de-procesos-1/blob/master/CONTROL%20DE%20PROCESOS/practica1.png?raw=true)
@@ -73,12 +84,19 @@ Para la siguiente practica que es la resta de dos digitos se dio aconocer todas 
 
 ## *Led encendido*
 -[Se abre el programa se crea uno nuevo para poder iniciar]
+
 -[se va al comado de tools,despues de ahi se va a  la opcion de makerhub y ahi mismo aparece la opcion de linx al insertartar o darñe click aparecia el programa para arduino]
+
 -[al ingresar a la pagina de arduinoaparece varias opciones una de las cuales le meneabas era la opciondos que era donde escogias el tipo de arduino a ocupar yle dabas next que era siguiente.]
+
 -[A la siguiente te aparecia en que puerto estaba conecctado el arduino para quepudiera ingresar el arduino ya si no ubiera error.] 
+
 -[aparecia otra barra de tareas que decia si estabas en el puerto correcto y le dabas en next.]
+
 -[el siguiente paso cargaba 
+
 -[conforme al programa cargado ingresabas a una ventanilla que aparecia como ejemplo para poder encender el led.]
+
 -[ya que estaba tu arduino conectadopodrias agregar el puerto y asi poder visualizar el encendido la parte del led la pata positiva fue al 13 y otra a GND(que era tierra) y asi no sepuudiera fundir.]
 
 ![labview imag](https://github.com/dulce1218/contor-de-procesos-1/blob/master/CONTROL%20DE%20PROCESOS/pracrica3.png?raw=true)
