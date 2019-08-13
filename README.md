@@ -141,7 +141,7 @@ Para la siguiente practica que es la resta de dos digitos se dio aconocer todas 
 -[]
 -[]
 
-![LABVIEW imag](https://github.com/dulce1218/contor-de-procesos-1/blob/master/CONTROL%20DE%20PROCESOS/practica6.png?raw=true)
+
 
 ## *PRACTICA # 7*
 
@@ -152,7 +152,7 @@ Para la siguiente practica que es la resta de dos digitos se dio aconocer todas 
 -[se le colocaran constantes que seran como pines que se van a estar ocupando pueden agregar retardos dentro del ciclo whith]
 
 
-![labview imag]
+![labview imag]![LABVIEW imag](https://github.com/dulce1218/contor-de-procesos-1/blob/master/CONTROL%20DE%20PROCESOS/practica6.png?raw=true)
 
 ![labview imag](https://github.com/dulce1218/contor-de-procesos-1/blob/master/CONTROL%20DE%20PROCESOS/PRACTICA7.png?raw=true)
 
@@ -179,7 +179,7 @@ Para la siguiente practica que es la resta de dos digitos se dio aconocer todas 
 -[se colocara un modulador de pulsos llamado set duty para que sea el variador de velocidaddel motor y se conectara al digital writhe ]
 
 
-![labview imag](https://github.com/dulce1218/contor-de-procesos-1/blob/master/CONTROL%20DE%20PROCESOS/practica%209.png?raw=true)
+![l
 
 ![labview imag](https://github.com/dulce1218/contor-de-procesos-1/blob/master/CONTROL%20DE%20PROCESOS/PRACTICA%209%20MOTOR.png?raw=true)
 
