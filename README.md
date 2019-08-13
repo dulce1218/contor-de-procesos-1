@@ -219,7 +219,8 @@ Para la siguiente practica que es la resta de dos digitos se dio aconocer todas 
 
 ![labview imag](https://github.com/dulce1218/contor-de-procesos-1/blob/master/CONTROL%20DE%20PROCESOS/prac11.2.png?raw=true)
 
-## *PRACTICA # 12 CONTEO CON  DOS DISPLAYS*
+## *PRACTICA # 12 CONTEO CON   DISPLAYS*
+![labview imag](https://github.com/dulce1218/contor-de-procesos-1/blob/master/CONTROL%20DE%20PROCESOS/prac12.1.png?raw=true)
 
 
 
