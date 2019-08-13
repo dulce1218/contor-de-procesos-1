@@ -159,7 +159,7 @@ Para la siguiente practica que es la resta de dos digitos se dio aconocer todas 
 ## *PRACTICA # 8*
 -[primero se realizara una lectura analogica con la interfaz de arduino con labview ]
 
--[se habre el programa de labview y se coloca los compnentes a utilizar ]
+-[se habre el programa de labview y se coloca los componentes a utilizar ]
 
 -[en la opcion de Emun que se coloco en el pin se va a utilizar coo lectura analogica solo podemos utilizar los pines para lectura analogica qe van de A0 a A5 del arduino]
 
@@ -168,6 +168,7 @@ Para la siguiente practica que es la resta de dos digitos se dio aconocer todas 
 -[la señal que recibimos del arduino del sensor analogico se va a multiplicar po 100 para que nos mande un resultado y si llega a visualizarse un error de inmediato pare el programa ]
 
 ![labview imag]
+abview imag](https://github.com/dulce1218/contor-de-procesos-1/blob/master/CONTROL%20DE%20PROCESOS/practica%209.png?raw=true)
 ## *PRACTICA # 9 PUENTE H CON MOTORES*
 
 -[primero para la practica se realizara la inversion del giro de un motor ]
