@@ -207,7 +207,7 @@ Para la siguiente practica que es la resta de dos digitos se dio aconocer todas 
 
 -[los limites se van a comparar y sesabracomo se encuentra cada cosa conforme a la leyenda ]
 
-![labview imag]
+![labview imag](https://github.com/dulce1218/contor-de-procesos-1/blob/master/CONTROL%20DE%20PROCESOS/prac10.1.png?raw=true)
 
 ![labview imag]
 
