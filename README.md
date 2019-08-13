@@ -9,15 +9,15 @@
 - [PRACTICA # 1 RESTA DE DOS DIGITOS]
 - [PRACTICA # 2 INDICE DE MASA CORPORAL]
 - [PRACTICA # 3 ENCENDIDO DEL LED])
--[PRACTICA # 4]
--[PRACTICA # 5  ]
--[PRACTICA # 6]
--[PRACTICA # 7]
--[PRACTICA # 8]
--[PRACTICA # 9 PUENTE H CON MOTORES]
--[PRACTICA # 10 PRACTICA DE]
--[PRACTICA # 11 DISPLAY]
--[PRACTICA # 12 CONTEO CON  DOS DISPLAYS]
+- [PRACTICA # 4]
+- [PRACTICA # 5  ]
+- [PRACTICA # 6]
+- [PRACTICA # 7]
+- [PRACTICA # 8]
+- [PRACTICA # 9 PUENTE H CON MOTORES]
+- [PRACTICA # 10 PRACTICA DE]
+- [PRACTICA # 11 DISPLAY]
+- [PRACTICA # 12 CONTEO CON  DOS DISPLAYS]
 
 
 ## *1 INTRODUCCION*
@@ -186,9 +186,27 @@ Para la siguiente practica que es la resta de dos digitos se dio aconocer todas 
 
 ## *PRACTICA # 10 PRACTICA DE 500 SEGUNDOS EL MOTOR SE ACTIVA*
 
+-[primero se realizara el controlde temperatura ]
+
+-[se habre el programa de labview ]
+
+-[se iso un analisis por el cual era importante la temperatura en laindustria ya que ahi que vissualizar a que temperatura se traajara para que se pueda cumplir las horas a laborar]
+
+-[se coloca2 numericy un termometro el cual nos indicara en que temperatura estamos un Enum el cual se modificara y un led indicador junto con un tex de alerta ]
+
+[se le agregara los canales al arduino ]
+
+-[una vez agregado se coloca un ciclo while y se coloca las librerias de arduino y asi conectar nuestra señal la señal obtenida se,ultiplicara por 100 yla salida se coloca el el termometro ]
+
+-[los limites se van a comparar y sesabracomo se encuentra cada cosa conforme a la leyenda ]
+
+![labview imag]
+
+![labview imag]
 
 
 ## *PRACTICA # 11 DISPLAY*
+
 
 ## *PRACTICA # 12 CONTEO CON  DOS DISPLAYS*
 
