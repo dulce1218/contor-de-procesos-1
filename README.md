@@ -183,6 +183,8 @@ Para la siguiente practica que es la resta de dos digitos se dio aconocer todas 
 -[se colocara un led para poder intercambiarel giro del motor y una perilla para controlar la velocidad del motor la perilla se pone de 0 a 5 ya que es el rango del que estara trabajando ]
 
 -[se colocara un modulador de pulsos llamado set duty para que sea el variador de velocidaddel motor y se conectara al digital writhe ]
+![labview imag](https://github.com/dulce1218/contor-de-procesos-1/blob/master/CONTROL%20DE%20PROCESOS/PRACTICA%209%20MOTOR.png?raw=true)
+
 
 ![labview imag](https://github.com/dulce1218/contor-de-procesos-1/blob/master/CONTROL%20DE%20PROCESOS/9.2.png?raw=true)
 
