@@ -168,7 +168,8 @@ Para la siguiente practica que es la resta de dos digitos se dio aconocer todas 
 -[la señal que recibimos del arduino del sensor analogico se va a multiplicar po 100 para que nos mande un resultado y si llega a visualizarse un error de inmediato pare el programa ]
 
 ![labview imag](https://github.com/dulce1218/contor-de-procesos-1/blob/master/CONTROL%20DE%20PROCESOS/practica%209.png?raw=true)
-
+ 
+![labview imag](https://github.com/dulce1218/contor-de-procesos-1/blob/master/CONTROL%20DE%20PROCESOS/prac%208.1.png?raw=true)
 
 ## *PRACTICA # 9 PUENTE H CON MOTORES*
 
