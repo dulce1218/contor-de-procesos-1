@@ -171,6 +171,9 @@ Para la siguiente practica que es la resta de dos digitos se dio aconocer todas 
  
 ![labview imag](https://github.com/dulce1218/contor-de-procesos-1/blob/master/CONTROL%20DE%20PROCESOS/prac%208.1.png?raw=true)
 
+![labview imag](https://github.com/dulce1218/contor-de-procesos-1/blob/master/CONTROL%20DE%20PROCESOS/8.0.png?raw=true)
+
+
 ## *PRACTICA # 9 PUENTE H CON MOTORES*
 
 -[primero para la practica se realizara la inversion del giro de un motor ]
