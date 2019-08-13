@@ -193,6 +193,14 @@ Para la siguiente practica que es la resta de dos digitos se dio aconocer todas 
 
 ## *PRACTICA # 10 PRACTICA DE 500 SEGUNDOS EL MOTOR SE ACTIVA*
 
+
+
+![labview imag](https://github.com/dulce1218/contor-de-procesos-1/blob/master/CONTROL%20DE%20PROCESOS/prac10.1.png?raw=true)
+
+![labview imag](https://github.com/dulce1218/contor-de-procesos-1/blob/master/CONTROL%20DE%20PROCESOS/prac10.2.png?raw=true) 
+
+
+## *PRACTICA # 11 *
 -[primero se realizara el controlde temperatura ]
 
 -[se habre el programa de labview ]
@@ -206,14 +214,6 @@ Para la siguiente practica que es la resta de dos digitos se dio aconocer todas 
 -[una vez agregado se coloca un ciclo while y se coloca las librerias de arduino y asi conectar nuestra señal la señal obtenida se,ultiplicara por 100 yla salida se coloca el el termometro ]
 
 -[los limites se van a comparar y sesabracomo se encuentra cada cosa conforme a la leyenda ]
-
-![labview imag](https://github.com/dulce1218/contor-de-procesos-1/blob/master/CONTROL%20DE%20PROCESOS/prac10.1.png?raw=true)
-
-![labview imag](https://github.com/dulce1218/contor-de-procesos-1/blob/master/CONTROL%20DE%20PROCESOS/prac10.2.png?raw=true) 
-
-
-## *PRACTICA # 11 DISPLAY*
-
 
 ## *PRACTICA # 12 CONTEO CON  DOS DISPLAYS*
 
