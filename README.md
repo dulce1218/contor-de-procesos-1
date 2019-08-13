@@ -15,7 +15,7 @@
 -[PRACTICA # 7]
 -[PRACTICA # 8]
 -[PRACTICA # 9 PUENTE H CON MOTORES]
--[PRACTICA # 10 PRACTICA DE 500 SEGUNDOS EL MOTOR SE ACTIVA]
+-[PRACTICA # 10 PRACTICA DE]
 -[PRACTICA # 11 DISPLAY]
 -[PRACTICA # 12 CONTEO CON  DOS DISPLAYS]
 
@@ -75,8 +75,11 @@ Para la siguiente practica que es la resta de dos digitos se dio aconocer todas 
 ## *Indice de masa corporal*
 
 -[Se abre el programa se crea uno nuevo para poder iniciar]
+
 -[se le da solucion o se investiga de como sacar el indice de masa corporal]
+
 -[para poder medir el indice de masa corporal se necita la opcion de la altura,peso]
+
 -[para poder ingresar una estatura y peso el progama se verificaba si estaba en el equivalente elcual se dividio para ver si estaba en  normal sobre peso etc]
 
 
@@ -112,119 +115,194 @@ Para la siguiente practica que es la resta de dos digitos se dio aconocer todas 
 
 ![labview imag](https://github.com/dulce1218/contor-de-procesos-1/blob/master/CONTROL%20DE%20PROCESOS/practica4.png?raw=true)
 
+## *PRACTICA # 4*
+
+-[]
+-[]
+
+## *PRACTICA # 5  *
+-[primero se coloca una alarma virtual la cual  realizara la funcion de medir el nivel de temperatura pasa encendea un led  ]
+
+-[se habre el programa de labview]
+
+-[se colocara dos numeric un led que se encendera cuando pase el  limite que nosotrosseleccionaremos y un boton de stop ]
 
 
+-[cambiaremos el nombre y le daremos diferentes nombres a los componentes  ]
+
+-[la barra del termometro se modificaran los limites de 0 a 100]
+
+-[se coloca un retardo para que el operador pueda modificar el tiempo en  donde se pueda ver el encendido del led oun aviso donde indique el limite.]
 
 
+![labview imag 5]
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## *PRACTICA # 6*
+-[]
+-[]
 
 ![LABVIEW imag](https://github.com/dulce1218/contor-de-procesos-1/blob/master/CONTROL%20DE%20PROCESOS/practica6.png?raw=true)
 
+## *PRACTICA # 7*
+
+-[primero mandaremos una señal comosi fuera  boton y ala vez encienda un led  ]
+
+-[se habre el programa de labview]
+
+-[se le colocaran constantes que seran como pines que se van a estar ocupando pueden agregar retardos dentro del ciclo whith]
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![labview imag]
 
 ![labview imag](https://github.com/dulce1218/contor-de-procesos-1/blob/master/CONTROL%20DE%20PROCESOS/PRACTICA7.png?raw=true)
 
+## *PRACTICA # 8*
+-[primero se realizara una lectura analogica con la interfaz de arduino con labview ]
 
+-[se habre el programa de labview y se coloca los compnentes a utilizar ]
+
+-[en la opcion de Emun que se coloco en el pin se va a utilizar coo lectura analogica solo podemos utilizar los pines para lectura analogica qe van de A0 a A5 del arduino]
+
+-[en el Enum  damos click derecho y se selecciona la opcion de propiedades y se selecciona edit itimes para agregar la cantidad de puertos ,para agregar los pueros se le da en la opcion de insetar ]
+
+-[la señal que recibimos del arduino del sensor analogico se va a multiplicar po 100 para que nos mande un resultado y si llega a visualizarse un error de inmediato pare el programa ]
+
+![labview imag]
+## *PRACTICA # 9 PUENTE H CON MOTORES*
+
+-[primero para la practica se realizara la inversion del giro de un motor ]
+
+-[se habre e programa de labview ]
+
+-[se colocara un led para poder intercambiarel giro del motor y una perilla para controlar la velocidad del motor la perilla se pone de 0 a 5 ya que es el rango del que estara trabajando ]
+
+-[se colocara un modulador de pulsos llamado set duty para que sea el variador de velocidaddel motor y se conectara al digital writhe ]
 
 
 ![labview imag](https://github.com/dulce1218/contor-de-procesos-1/blob/master/CONTROL%20DE%20PROCESOS/practica%209.png?raw=true)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![labview imag](https://github.com/dulce1218/contor-de-procesos-1/blob/master/CONTROL%20DE%20PROCESOS/PRACTICA%209%20MOTOR.png?raw=true)
+
+
+## *PRACTICA # 10 PRACTICA DE 500 SEGUNDOS EL MOTOR SE ACTIVA*
+
+
+
+## *PRACTICA # 11 DISPLAY*
+
+## *PRACTICA # 12 CONTEO CON  DOS DISPLAYS*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
